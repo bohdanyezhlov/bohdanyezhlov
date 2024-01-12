@@ -2,8 +2,10 @@
 
 # Bohdan Yezhlov
 
+Junior Frontend developer at [🐥 DuckFund](https://www.duckfund.com/)
+
 ## I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,ts,tailwind,vite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,react,sass)](https://skillicons.dev)
 
 
